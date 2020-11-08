@@ -9,3 +9,5 @@ the ability to up load your own txt docs into the typing test(if not default is 
 customize how long the typing test is(how long of an excerpt from the text)
 
 it should calculate words per minute and accuracy
+
+//this part is just me checking out the git branching and pull request process
